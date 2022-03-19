@@ -1,0 +1,3 @@
+[submodule "src/nics-ui"]
+	path = src/nics-ui
+	url = git@github.com:javellan/nics-ui.git
